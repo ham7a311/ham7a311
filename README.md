@@ -15,7 +15,7 @@
 
 ## Featured Project
 
-# halyx
+### halyx
 
 
 **A local security reviewer for AI coding agents.**
