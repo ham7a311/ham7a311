@@ -67,8 +67,8 @@ npx halyx
 ## GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ham7a311&show_icons=true&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ham7a311&layout=compact&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ham7a311&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ham7a311&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---
