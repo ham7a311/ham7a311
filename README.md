@@ -8,7 +8,7 @@
 <p>
   <a href="https://ham7a311.dev">Portfolio</a> •
   <a href="https://linkedin.com/in/ham7a311">LinkedIn</a> •
-  <a href="https://github.com/ham7a311">GitHub</a>
+  <a href="https://instagram.com/ham7a311__">Instagram</a>
 </p>
 
 ---
