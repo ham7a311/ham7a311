@@ -1,4 +1,4 @@
-````markdown
+markdown
 # Hamza Al-Bulushi
 
 > **Building AI developer tools, security tooling, and products that solve real problems.**
@@ -105,4 +105,3 @@ npx halyx
   <a href="https://linkedin.com/in/ham7a311">LinkedIn</a> •
   <a href="mailto:hamza@example.com">Email</a>
 </p>
-````
