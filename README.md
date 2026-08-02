@@ -1,62 +1,108 @@
+````markdown
 # Hamza Al-Bulushi
 
-**Computer Science · GUtech · Muscat, Oman**
+> **Building AI developer tools, security tooling, and products that solve real problems.**
 
-I build tools and products at the intersection of software engineering and AI — from local security tooling for coding agents to student-facing platforms. Clean systems, clear interfaces, shipped work.
+**Computer Science @ GUtech (Year 2)** • Muscat, Oman
 
-[Portfolio](https://ham7a311.dev) · [LinkedIn](https://linkedin.com/in/ham7a311) · [GitHub](https://github.com/ham7a311)
+<p>
+  <a href="https://ham7a311.dev">Portfolio</a> •
+  <a href="https://linkedin.com/in/ham7a311">LinkedIn</a> •
+  <a href="https://github.com/ham7a311">GitHub</a>
+</p>
 
 ---
 
-## Featured
+## Featured Project
 
-### [halyx](https://github.com/ham7a311/halyx)
-**A security reviewer for AI coding agents.**
+# halyx
 
-Local MCP server that catches the mistakes agents make in-loop — client-exposed secrets, missing RLS, unauthenticated server actions, verbose error leaks. Free, MIT, nothing leaves your machine.
+**A local security reviewer for AI coding agents.**
+
+halyx catches common security mistakes **before code leaves your editor**—including exposed secrets, missing Row-Level Security (RLS), unauthenticated server actions, wildcard CORS, verbose error leaks, and other issues introduced during AI-assisted development.
+
+- 🔒 Runs completely locally
+- ⚡ Designed for MCP-enabled AI coding workflows
+- 📦 Free & open source (MIT)
 
 ```bash
 npx halyx
 ```
 
-[Repository](https://github.com/ham7a311/halyx) · [Site](https://halyx-rho.vercel.app)
+> **Repository:** https://github.com/ham7a311/halyx  
+> **Website:** https://halyx-rho.vercel.app
+
+<!-- Add a terminal screenshot or GIF here -->
+<!-- ![halyx demo](images/halyx-demo.gif) -->
 
 ---
 
-## Selected work
+## Projects
 
-| Project | What it is |
-| --- | --- |
-| [**ResumeRoast**](https://resume-roast.com) | An AI that roasts your resume |
-| [**halyx**](https://github.com/ham7a311/halyx) | Local MCP security reviewer for AI coding agents  |
-| [**Masar**](https://github.com/ham7a311/Masar) | Learning resources, career roadmaps, and growth planning for students |
-| [**Wally**](https://github.com/ham7a311/Wally) | Personal money management app |
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **halyx** | TypeScript · MCP · Node.js | Local security reviewer for AI coding agents |
+| **ResumeRoast** | Next.js · Supabase · AI | AI-powered resume analysis with ATS scoring and improvement suggestions |
+| **Masar** | React · Firebase | Student platform for learning resources, roadmaps, and career planning |
+| **Wally** | React | Personal finance and expense management application |
 
 ---
 
-## Focus
+## Tech Stack
 
-```text
-TypeScript  ·  Next.js  ·  React  ·  Node.js
-C++         ·  MCP      ·  Supabase ·  Firebase
-```
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
-Security-minded tooling · agent workflows · product UI · systems with clear ownership
+---
+
+## GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ham7a311&show_icons=true&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ham7a311&layout=compact&hide_border=true"/>
+</p>
 
 ---
 
 ## Currently
 
-- Shipping and refining **halyx** — in-loop security review for AI coding agents  
-- Studying Computer Science at **GUtech** (Year 2)  
-- Building things that stay local when they should, and ship when they must  
+- Building **halyx**, security tooling for AI coding agents
+- Studying **Computer Science** at GUtech
+- Exploring AI developer tools, application security, and modern C++
+
+---
+
+## Philosophy
+
+> Build useful software.  
+> Keep systems simple.  
+> Ship often.  
+> Learn continuously.
+
+---
+
+## Interested In
+
+- AI Developer Tools
+- Application Security
+- Developer Experience
+- Open Source
+- Building products from idea to production
 
 ---
 
 <p align="center">
-  <a href="https://ham7a311.dev">Portfolio</a>
-  ·
-  <a href="https://linkedin.com/in/ham7a311">LinkedIn</a>
-  ·
-  <a href="https://instagram.com/ham7a311__">Instagram</a>
+  <a href="https://ham7a311.dev">Portfolio</a> •
+  <a href="https://linkedin.com/in/ham7a311">LinkedIn</a> •
+  <a href="mailto:hamza@example.com">Email</a>
 </p>
+````
