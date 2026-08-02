@@ -17,8 +17,6 @@
 
 # halyx
 
-**A local security reviewer for AI coding agents.**<img width="150" height="150" alt="icon" src="https://github.com/user-attachments/assets/26139e6a-c3b1-419c-bc89-111fb50d5045" />
-
 
 **A local security reviewer for AI coding agents.**
 
