@@ -64,12 +64,14 @@ npx halyx
 
 ---
 
-## GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ham7a311&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ham7a311&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+# What I Enjoy Building
+
+- AI developer tools
+- Security tooling
+- Full-stack web applications
+- Developer experience
+- Open-source software
 
 ---
 
