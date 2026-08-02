@@ -27,12 +27,10 @@ npx halyx
 
 | Project | What it is |
 | --- | --- |
+| [**ResumeRoast**](https://resume-roast.com) | An AI that roasts your resume |
+| [**halyx**](https://github.com/ham7a311/halyx) | Local MCP security reviewer for AI coding agents  |
 | [**Masar**](https://github.com/ham7a311/Masar) | Learning resources, career roadmaps, and growth planning for students |
-| [**EduNet**](https://github.com/ham7a311/EduNet) | Posts, events, calendar, and AI chat for campus communities |
 | [**Wally**](https://github.com/ham7a311/Wally) | Personal money management app |
-| [**CPP Juice Project**](https://github.com/ham7a311/CPP-Juice-Project) | End-to-end OOP juice shop — inventory, orders, employees, checkout |
-| [**Admin Dashboard**](https://github.com/ham7a311/Admin-Dashboard) | Frontend admin UI |
-| [**Code Editor**](https://github.com/ham7a311/Code-Editor) | Browser-based code editor |
 
 ---
 
