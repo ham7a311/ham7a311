@@ -1,4 +1,4 @@
-markdown
+
 # Hamza Al-Bulushi
 
 > **Building AI developer tools, security tooling, and products that solve real problems.**
