@@ -54,7 +54,7 @@ Security-minded tooling · agent workflows · product UI · systems with clear o
 ---
 
 <p align="center">
-  <a href="https://ham7a311.dev">ham7a311.dev</a>
+  <a href="https://ham7a311.dev">Portfolio</a>
   ·
   <a href="https://linkedin.com/in/ham7a311">LinkedIn</a>
   ·
