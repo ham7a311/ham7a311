@@ -15,23 +15,7 @@
 
 ## Featured Project
 
-<p align="left">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
-  <path
-    d="M12 2.5 4.5 6v5.2c0 4.7 3.2 8.9 7.5 10.3 4.3-1.4 7.5-5.6 7.5-10.3V6L12 2.5Z"
-    stroke="#1b6fd4"
-    stroke-width="1.5"
-    stroke-linejoin="round"
-  />
-  <path
-    d="M8 12.2h8M12 8.5v7"
-    stroke="#1b6fd4"
-    stroke-width="1.5"
-    stroke-linecap="round"
-  />
-</svg>
-  <strong style="font-size:28px;">halyx</strong>
-</p>
+# halyx
 
 **A local security reviewer for AI coding agents.**<img width="150" height="150" alt="icon" src="https://github.com/user-attachments/assets/26139e6a-c3b1-419c-bc89-111fb50d5045" />
 
