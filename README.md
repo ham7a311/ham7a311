@@ -78,9 +78,10 @@ npx halyx
 
 ## Currently
 
-- Building **halyx**, security tooling for AI coding agents
-- Studying **Computer Science** at GUtech
-- Exploring AI developer tools, application security, and modern C++
+- 🚀 Shipping **halyx**
+- 🎓 Computer Science @ GUtech
+- 🛡️ Exploring AI developer tools and application security
+- 💻 Solving competitive programming problems in C++
 
 ---
 
