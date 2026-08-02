@@ -31,7 +31,7 @@ npx halyx
 ```
 
 > **Repository:** https://github.com/ham7a311/halyx  
-> **Website:** https://halyx-rho.vercel.app
+> **Documentation:** https://halyx-rho.vercel.app
 
 <!-- Add a terminal screenshot or GIF here -->
 <!-- ![halyx demo](images/halyx-demo.gif) -->
