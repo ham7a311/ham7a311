@@ -186,12 +186,11 @@ Learn continuously.
 
 <div align="center">
 
-<!--
-  If this snake doesn't render, your Platane/snk GitHub Action likely hasn't
-  run yet, or the URL below doesn't match your actual output branch/path.
-  See the troubleshooting notes below this README for the fix.
--->
-<img src="https://raw.githubusercontent.com/ham7a311/ham7a311/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ham7a311/ham7a311/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ham7a311/ham7a311/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ham7a311/ham7a311/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
