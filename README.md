@@ -111,7 +111,7 @@ npx halyx
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ham7a311&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ham7a311&color=blue" alt="Profile views" />
 </p>
 
 ---
