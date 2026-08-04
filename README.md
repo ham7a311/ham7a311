@@ -110,6 +110,7 @@ npx halyx
   <a href="https://instagram.com/ham7a311__">Instagram</a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ham7a311&color=blueviolet" alt="Profile views" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=ham7a311&color=blueviolet)
