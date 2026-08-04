@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hamza%20Al-Bulushi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI-powered%20developer%20tools%20and%20security%20software%20for%20the%20next%20generation%20of%20engineering%20workflows&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+%40+GUtech+(Year+2);Building+halyx+%F0%9F%94%92;Muscat%2C+Oman+%F0%9F%87%B4%F0%9F%87%B2;AI+%2B+Security+%2B+Dev+Tools&font=Fira+Code&center=true&width=520&height=45&color=58A6FF&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+%40+GUtech+(Year+2);Building+halyx+%F0%9F%94%92;Muscat+Oman;AI+%2B+Security+%2B+Dev+Tools&font=Fira+Code&center=true&width=520&height=45&color=58A6FF&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,6 +11,7 @@
 <a href="https://ham7a311.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/ham7a311"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/ham7a311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/ham7a311__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=ham7a311&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
@@ -63,30 +64,7 @@ npx halyx
 </tr>
 </table>
 
-
 https://github.com/user-attachments/assets/50f9da20-5854-449a-ac97-7a9d81bedf1a
-<!--
-  📹 ATTACH THE HALYX TERMINAL DEMO HERE.
-  This is the single highest-impact thing you can add to this README.
-
-  What to record:
-    $ npx halyx
-    Scanning project...
-    ✓ Secrets detected
-    ✓ Auth checks passed
-    ✓ RLS rules checked
-    ✓ CORS analyzed
-    Security report generated
-
-  How:
-    1. Record a 5-10s terminal clip with vhs (https://github.com/charmbracelet/vhs)
-       or terminalizer (https://github.com/faressoft/terminalizer).
-    2. Export as a GIF (keep it under ~5MB so it loads fast on GitHub).
-    3. Commit it to this repo, e.g. at: images/halyx-demo.gif
-    4. Uncomment the line below and point it at that path.
-
-  ![halyx demo](images/halyx-demo.gif)
--->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=6,11,20" width="100%">
 
@@ -94,7 +72,7 @@ https://github.com/user-attachments/assets/50f9da20-5854-449a-ac97-7a9d81bedf1a
 
 <table>
 <tr>
-<td width="50%" align="top">
+<td width="50%" valign="top">
 <br/>
 
 ### 🔒 [halyx](https://halyx-rho.vercel.app/)
@@ -207,7 +185,12 @@ Learn continuously.
 ## 🐍 Contributions
 
 <div align="center">
-  
+
+<!--
+  If this snake doesn't render, your Platane/snk GitHub Action likely hasn't
+  run yet, or the URL below doesn't match your actual output branch/path.
+  See the troubleshooting notes below this README for the fix.
+-->
 <img src="https://raw.githubusercontent.com/ham7a311/ham7a311/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%"/>
 
 </div>
@@ -217,6 +200,7 @@ Learn continuously.
 <a href="https://ham7a311.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/ham7a311"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/ham7a311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/ham7a311__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/><br/>
 
