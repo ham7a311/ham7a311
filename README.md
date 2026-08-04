@@ -45,14 +45,18 @@ npx halyx
 
 **Links**
 
-🔗 Repository&nbsp;&nbsp;[github.com/ham7a311/halyx](https://github.com/ham7a311/halyx)
-📚 Docs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[halyx-rho.vercel.app](https://halyx-rho.vercel.app)
+| | |
+|:--|:--|
+| 🔗&nbsp;**Repository** | [github.com/ham7a311/halyx](https://github.com/ham7a311/halyx) |
+| 📚&nbsp;**Documentation** | [halyx-rho.vercel.app](https://halyx-rho.vercel.app) |
+
+<br/>
 
 **Repo stats**
 
 <img src="https://img.shields.io/github/stars/ham7a311/halyx?style=social"/>
 <img src="https://img.shields.io/github/forks/ham7a311/halyx?style=social"/>
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/github/last-commit/ham7a311/halyx?color=39D353&label=last%20commit"/>
 
 </td>
@@ -69,42 +73,50 @@ npx halyx
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🔒 halyx
-Local security reviewer for AI coding agents
 <br/>
+
+### 🔒 [halyx](https://halyx-rho.vercel.app/)
+Local security reviewer for AI coding agents
+
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/MCP-111111?style=flat-square"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 
+<br/><br/>
 </td>
 <td width="50%" valign="top">
-
-### 📄 ResumeRoast
-AI-powered resume analysis with ATS scoring and improvement suggestions
 <br/>
+
+### 📄 [ResumeRoast](https://resume-roast.com)
+AI-powered resume analysis with ATS scoring and improvement suggestions
+
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
 
+<br/><br/>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🎓 Masar
-Student platform for learning resources, roadmaps, and career planning
 <br/>
+
+### 🎓 [Masar](https://masar-17442.web.app/)
+Student platform for learning resources, roadmaps, and career planning
+
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 
+<br/><br/>
 </td>
 <td width="50%" valign="top">
-
-### 💰 Wally
-Personal finance and expense management application
 <br/>
+
+### 💰 [Wally](https://wally-c3695.web.app/)
+Personal finance and expense management application
+
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 
+<br/><br/>
 </td>
 </tr>
 </table>
