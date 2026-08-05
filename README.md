@@ -64,7 +64,7 @@ npx halyx
 </tr>
 </table>
 
-https://github.com/user-attachments/assets/dcbe6655-067c-4d0d-97c3-55ef37dafe93
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=6,11,20" width="100%">
 
@@ -206,5 +206,3 @@ Learn continuously.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
-
-
