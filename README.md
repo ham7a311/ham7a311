@@ -64,7 +64,7 @@ npx halyx
 </tr>
 </table>
 
-
+<img width="800" height="292" alt="Terminal_showcase_example-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/c4dc356e-1a28-4c2a-8145-61024a2c9525" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=6,11,20" width="100%">
 
