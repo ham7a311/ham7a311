@@ -127,7 +127,7 @@ Personal finance and expense management application
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,python,postgres,supabase,firebase,docker,linux,cpp,tailwind,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,python,supabase,firebase,cpp,tailwind,git,github&theme=dark" />
 
 </div>
 
