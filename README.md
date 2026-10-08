@@ -26,7 +26,7 @@ Links
 <br/>
 🔗 Repository  <a href="https://github.com/ham7a311/vitrine">github.com/ham7a311/vitrine</a>
 
-<br/> <img src="https://img.shields.io/github/stars/ham7a311/vitrine?style=social"/> <img src="https://img.shields.io/github/forks/ham7a311/vitrine?style=social"/> </td> </tr> </table> <div align="center"> <img src="https://raw.githubusercontent.com/ham7a311/vitrine/main/.github/readme/sieve.jpg" alt="Sieve component" width="49%"/> <img src="https://raw.githubusercontent.com/ham7a311/vitrine/main/.github/readme/undo-tree.jpg" alt="Undo Tree component" width="49%"/> <img src="https://raw.githubusercontent.com/ham7a311/vitrine/main/.github/readme/patch-bay.jpg" alt="Patch Bay component" width="49%"/> <img src="https://raw.githubusercontent.com/ham7a311/vitrine/main/.github/readme/you-draw-it.jpg" alt="You Draw It component" width="49%"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=6,11,20" width="100%">
+<br/> <img src="https://img.shields.io/github/stars/ham7a311/vitrine?style=social"/> <img src="https://img.shields.io/github/forks/ham7a311/vitrine?style=social"/> </td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=6,11,20" width="100%">
 🛠️ Projects
 <table> <tr> <td width="50%" valign="top"> <br/>
 🎨 Vitrine
@@ -58,13 +58,6 @@ A chess engine
 </td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=6,11,20" width="100%">
 💻 Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,python,supabase,firebase,cpp,tailwind,git,github&theme=dark" /> </div> <div align="center"> <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> </div>
-🧭 Philosophy
-<div align="center">
-Build useful software.
-Keep systems simple.
-Ship often.
-Learn continuously.
-</div>
 🔭 Interested In
 <div align="center"> <img src="https://img.shields.io/badge/AI%20Developer%20Tools-58A6FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Application%20Security-39D353?style=for-the-badge"/> <img src="https://img.shields.io/badge/Developer%20Experience-F778BA?style=for-the-badge"/> <img src="https://img.shields.io/badge/Open%20Source-FFA657?style=for-the-badge"/> <br/> <img src="https://img.shields.io/badge/Idea%20%E2%86%92%20Production-D2A8FF?style=for-the-badge"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=6,11,20" width="100%">
 🐍 Contributions
