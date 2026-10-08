@@ -13,13 +13,19 @@ Highlights
 🎞️ Motion with CSS, WAAPI and rAF only; no animation libraries
 📋 Every component comes with its source and a prompt to adapt it
 📦 Free & open source (MIT)
-Stack Next.js 15 · React 19 · TypeScript · Tailwind (demos only)
+Stack
+
+Next.js 15 · React 19 · TypeScript · Tailwind (demos only)
 
 </td> <td width="50%" valign="top">
 Links
 
-🌐 Live site	tryvitrine.dev
-🔗 Repository	github.com/ham7a311/vitrine
+<br/>
+🌐 Live site  <a href="https://tryvitrine.dev">tryvitrine.dev</a>
+
+<br/>
+🔗 Repository  <a href="https://github.com/ham7a311/vitrine">github.com/ham7a311/vitrine</a>
+
 <br/> <img src="https://img.shields.io/github/stars/ham7a311/vitrine?style=social"/> <img src="https://img.shields.io/github/forks/ham7a311/vitrine?style=social"/> </td> </tr> </table> <div align="center"> <img src="https://raw.githubusercontent.com/ham7a311/vitrine/main/.github/readme/sieve.jpg" alt="Sieve component" width="49%"/> <img src="https://raw.githubusercontent.com/ham7a311/vitrine/main/.github/readme/undo-tree.jpg" alt="Undo Tree component" width="49%"/> <img src="https://raw.githubusercontent.com/ham7a311/vitrine/main/.github/readme/patch-bay.jpg" alt="Patch Bay component" width="49%"/> <img src="https://raw.githubusercontent.com/ham7a311/vitrine/main/.github/readme/you-draw-it.jpg" alt="You Draw It component" width="49%"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=6,11,20" width="100%">
 🛠️ Projects
 <table> <tr> <td width="50%" valign="top"> <br/>
@@ -51,7 +57,7 @@ A chess engine
 
 </td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=6,11,20" width="100%">
 💻 Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,python,supabase,firebase,cpp,tailwind,git,github&theme=dark" /> </div> <div align="center"> <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&customColorList=6,11,20" width="100%">
+<div align="center"> <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,python,supabase,firebase,cpp,tailwind,git,github&theme=dark" /> </div> <div align="center"> <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> </div>
 🧭 Philosophy
 <div align="center">
 Build useful software.
