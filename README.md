@@ -9,7 +9,7 @@ Vitrine is a gallery of React components picked for how they move, read and feel
 <div align="center"> <img src="https://raw.githubusercontent.com/ham7a311/vitrine/main/.github/readme/reactive-prose.gif" alt="Reactive Prose component responding to the cursor" width="100%"/> </div> <table> <tr> <td width="50%" valign="top">
 Highlights
 
-🧩 458 components across 32 categories
+🧩 555 components across 32 categories
 🎞️ Motion with CSS, WAAPI and rAF only; no animation libraries
 📋 Every component comes with its source and a prompt to adapt it
 📦 Free & open source (MIT)
@@ -30,7 +30,7 @@ Links
 🛠️ Projects
 <table> <tr> <td width="50%" valign="top"> <br/>
 🎨 Vitrine
-A curated gallery of 458 React components
+A curated gallery of 555 React components
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <br/><br/>
