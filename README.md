@@ -17,8 +17,5 @@
 <a href="https://github.com/ham7a311/OCS"><picture><source media="(prefers-color-scheme: dark)" srcset="https://prettygit.com/api/card?type=work&username=ham7a311&theme=sticker-dark&repo=OCS&v=12" /><img src="https://prettygit.com/api/card?type=work&username=ham7a311&theme=sticker&repo=OCS&v=12" alt="OCS" width="49%" /></picture></a>
 </p>
 
-<p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://prettygit.com/api/card?type=work&username=ham7a311&theme=sticker-dark&n=2&v=12" /><img src="https://prettygit.com/api/card?type=work&username=ham7a311&theme=sticker&n=2&v=12" alt="Project" width="49%" /></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://prettygit.com/api/card?type=work&username=ham7a311&theme=sticker-dark&n=3&v=12" /><img src="https://prettygit.com/api/card?type=work&username=ham7a311&theme=sticker&n=3&v=12" alt="Project" width="49%" /></picture>
-</p>
+
 
