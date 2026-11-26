@@ -22,4 +22,3 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://prettygit.com/api/card?type=work&username=ham7a311&theme=sticker-dark&n=3&v=12" /><img src="https://prettygit.com/api/card?type=work&username=ham7a311&theme=sticker&n=3&v=12" alt="Project" width="49%" /></picture>
 </p>
 
-<p align="right"><sub>Made with <a href="https://prettygit.com">PrettyGit</a></sub></p>
